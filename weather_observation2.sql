@@ -1,8 +1,7 @@
 # Query the Western Longitude (LONG_W) for the largest Northern Latitude (LAT_N) in STATION that is less than . Round your answer to  decimal places.
 
 
-Enter your query here.
-*/
+
 SELECT ROUND((LONG_W),4)
 FROM STATION 
 WHERE LAT_N < 137.2345
