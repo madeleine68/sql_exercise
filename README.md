@@ -1,2 +1,2 @@
 # sql_exercise
-HACKERRANK sql question with answer
+HACKERRANK sql question with answer.
